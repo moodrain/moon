@@ -1,9 +1,8 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "moodrain/dash",
+    "type": "library",
+    "description": "a simple mvc framework with lumen",
     "license": "MIT",
-    "type": "project",
     "require": {
         "php": "^7.2.5",
         "laravel/lumen-framework": "^7.0",
