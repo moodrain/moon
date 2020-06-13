@@ -1,0 +1,1 @@
+<el-pagination style="width: 100%;text-align: right" @current-change="currentChange" :current-page="currentPage" :page-size="20" layout="total, jumper, prev, pager, next" :total="total"></el-pagination>
